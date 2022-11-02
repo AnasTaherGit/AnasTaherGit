@@ -5,7 +5,7 @@ I'm Taher Anas, a Embedded Systems Cybersecurity engineer and a passionate coder
 Laureate of ***Centrale Lille*** in Networks and Telecommunications and laureat of ***Ecole Nationale d'Arts et Métiers*** (ENSAM) of Meknes in Electromechanics and Industrial Systems.
 
 
-And I am currently working for ***APSIDE*** where I do penetration testing on the client's products.
+And I am currently working for ***APSIDE*** as Embedded Systems Cybersecurity engineer.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anas-taher/)
 - 😄 Pronouns: He/Him
