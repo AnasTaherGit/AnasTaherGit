@@ -8,7 +8,6 @@ Laureate of ***Centrale Lille*** in Networks and Telecommunications and laureat 
 And I am currently working for ***APSIDE*** as Embedded Systems Cybersecurity engineer.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anas-taher/)
-- 😄 Pronouns: He/Him
 <!--
 **AnasTaherGit/AnasTaherGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
